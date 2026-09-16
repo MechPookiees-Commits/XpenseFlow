@@ -1,0 +1,6 @@
+{
+  "name": "XpenseFlow",
+  "description": "Local-first canteen expense tracker that extracts UPI payments from Messages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
